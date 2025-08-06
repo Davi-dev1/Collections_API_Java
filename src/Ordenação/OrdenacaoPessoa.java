@@ -55,7 +55,7 @@ public List<Pessoa> ordernarPorIdade(){
 
         System.out.println(ordenacaoPessoa.ordernarPorIdade()); // a idade é ordenada da menor para a maior
         System.out.println(ordenacaoPessoa.ordenarPorAltura()); // a altura é ordenada ai do menor para o maior
-
+//git show no terminal mostra o ultimo commit feito
 
     }
 
